@@ -1,6 +1,8 @@
 # qris
 Quantile Regression Model for Residual Lifetime Using an Induced Smoothing Approach Use qris With (In) R Software
 
+https://www.youtube.com/watch?v=2nCulceGkKM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
